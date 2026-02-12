@@ -6,7 +6,7 @@ O projeto permite ao usuário criar senhas seguras de forma personalizada, escol
 
 📸 Preview
 
-Adicione aqui um print ou gif do projeto rodando.
+<img src="https://github.com/AntonioLuiz-dev/CALCULADORA/blob/main/assets/mockup.png?raw=true" width="510px"/>
 
 🚀 Funcionalidades
 
