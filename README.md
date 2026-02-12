@@ -94,12 +94,12 @@ Também compõe meu portfólio como demonstração prática de desenvolvimento f
 
 🔗 Deploy
 
-Adicione aqui o link quando publicar no GitHub Pages:
+https://antonioluiz-dev.github.io/PROJETO-PASSWORD-GENERATOR/
 
 👨‍💻 Autor
 
 Antonio Luiz
 Desenvolvedor Front-end em transição para Full Stack
 
-LinkedIn: coloque aqui
+LinkedIn: https://www.linkedin.com/in/antonio-luiz-dos-santos/
 Portfólio: coloque aqui
