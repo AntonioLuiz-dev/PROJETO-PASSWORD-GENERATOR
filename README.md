@@ -6,7 +6,7 @@ O projeto permite ao usuário criar senhas seguras de forma personalizada, escol
 
 📸 Preview
 
-<img src="https://github.com/AntonioLuiz-dev/CALCULADORA/blob/main/assets/mockup.png?raw=true" width="510px"/>
+<img src="https://github.com/AntonioLuiz-dev/PROJETO-PASSWORD-GENERATOR/blob/main/assets/mockup.png?raw=true" width="510px"/>
 
 🚀 Funcionalidades
 
